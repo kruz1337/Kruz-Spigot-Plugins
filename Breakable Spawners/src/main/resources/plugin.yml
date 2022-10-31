@@ -1,0 +1,23 @@
+name: BSpawners
+main: org.requestx.bspawners.Main
+version: 1.0
+api-version: 1.13
+commands:
+ help:
+   description: Show help page.
+   usage: /<command>
+   permission: 
+ toggle:
+   description: Toggle's Breakable Spawners.
+   usage: /<command>
+   permission: 
+ reload:
+   description: Reload's Config.
+   usage: /<command>
+   permission: administrator
+ bspawners:
+   description: BSpawners Commands.
+   usage: |
+      /bspawners help
+      /bspawners toggle
+      /bspawners reload
