@@ -1,0 +1,26 @@
+name: autoswitch
+main: org.requestx.autoswitch.Main
+version: 1.0
+api-version: 1.13
+commands:
+ help:
+  description: Show help page.
+  usage: /<command>
+  permission: 
+ reload:
+  description: Reload's Config.
+  usage: /<command>
+  permission: administrator
+ toggle:
+  description: Enables/Disables auto tool switch.
+  usage: /<command>
+  permission: 
+ switchback:
+  description: Enables/Disables switch back after using tool.
+  usage: /<command>
+  permission: 
+ autoswitch:
+   description: AutoSwitch Commands.
+   usage: |
+      /autoswitch toggle
+      /autoswitch switchback

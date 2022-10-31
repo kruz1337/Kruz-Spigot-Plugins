@@ -1,0 +1,26 @@
+name: FarDrop
+main: org.requestx.fardrop.Main
+version: 1.0
+api-version: 1.13
+commands:
+ drop:
+  description: Drop's items to the far player.
+  usage: /<command>
+  permission: 
+ dropxp:
+  description: Drop's xp to the far player.
+  usage: /<command>
+  permission: 
+ help:
+   description: Show help page.
+   usage: /<command>
+   permission: 
+ reload:
+   description: Reload's config.
+   usage: /<command>
+   permission: administrator
+ fardrop:
+   description: FarDrop Commands.
+   usage: |
+      /fardrop help
+      /fardrop reload
