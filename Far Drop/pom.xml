@@ -80,7 +80,7 @@
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-jar-plugin</artifactId>
 					<configuration>
-						<outputDirectory>D:\Other\Users\Yasin\Files\Others\Servers\Minecraft Server 1.16.5\paper\plugins</outputDirectory>
+						<outputDirectory>SET-OUTPUT-DIRECTORY</outputDirectory>
 					</configuration>
 				</plugin>
 			</plugins>
