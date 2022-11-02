@@ -1,5 +1,5 @@
 # Kruz-Spigot-Plugins
-This repository has a my spigot plugins for Minecraft game. It's fully open source.
+This repository has a Auto Tool Switch, Breakable Spawners and Far Drop plugins for Minecraft game. It's fully open source.
 
 ![](https://img.shields.io/badge/language-java-b07219?style=plastic) ![](https://img.shields.io/badge/game-minecraft-green?style=plastic) ![](https://img.shields.io/badge/api-spigot-d9654f?style=plastic)
 
